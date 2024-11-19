@@ -1,3 +1,5 @@
+import nk2200.Solution10;
+
 import java.util.Arrays;
 
 public class Main {
